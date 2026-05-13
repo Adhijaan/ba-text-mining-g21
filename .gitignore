@@ -7,3 +7,6 @@ notebooks
 KEY*.ipynb
 lab_sessions/lab3/*/
 /venv*
+lab_sessions/lab6/cache_dir/
+lab_sessions/lab6/outputs/
+lab_sessions/lab6/runs/
